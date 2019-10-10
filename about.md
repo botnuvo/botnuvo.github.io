@@ -17,7 +17,7 @@ upon and support open source projects. Research and Education are our core marke
 
 <h2>Michael Ferguson
 <a href="https://www.linkedin.com/in/mfergs/" target="_blank">
-<img src="{{ site.url }}//assets/images/linkedin.png" style="filter: grayscale(100%);" height=20px/>
+<img src="{{ site.url }}/assets/images/linkedin.png" style="filter: grayscale(100%);" height=20px/>
 </a>
 </h2>
 Michael Ferguson is the CTO and President of Botnuvo Inc. He has been a ROS developer
@@ -28,7 +28,7 @@ at Willow Garage. Michael received a MS in Computer Science from the State Unive
 of New York at Albany.<br><br>
 
 <h2>David Ferguson
-<img src="{{ site.url }}//assets/images/linkedin.png" style="filter: grayscale(100%);" height=20px/>
+<img src="{{ site.url }}/assets/images/linkedin.png" style="filter: grayscale(100%);" height=20px/>
 </h2>
 David Ferguson is Vice President of Botnuvo Inc. Previously, David was President
 of Dynamic Systems Inc. (DSI), a closely held manufacturer of thermal-mechanical
