@@ -1,18 +1,39 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<div class="home">
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<h1>About Botnuvo</h1>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Robotics should be easier. Researchers, educators and developers need access to high
+quality robot platforms. Most platforms available today are too expensive, poorly
+supported and closed source - we've set out to change that. Our robot platforms build
+upon and support open source projects. Research and Education are our core markets.<br><br>
 
+<h1>The Team</h1>
 
-[jekyll-organization]: https://github.com/jekyll
+<h2>Michael Ferguson
+<a href="https://www.linkedin.com/in/mfergs/" target="_blank">
+<img src="/assets/images/linkedin.png" style="filter: grayscale(100%);" height=20px/>
+</a>
+</h2>
+Michael Ferguson is the CTO and President of Botnuvo Inc. He has been a ROS developer
+for nearly a decade. Michael was previously CTO of Fetch Robotics, where he led the
+development of their award-winning Fetch and Freight robotic platforms. Previous to
+Fetch, he was CTO of Unbounded Robotics, CTO of Vanadium labs, and a software developer
+at Willow Garage. Michael received a MS in Computer Science from the State University
+of New York at Albany.<br><br>
+
+<h2>David Ferguson
+<img src="/assets/images/linkedin.png" style="filter: grayscale(100%);" height=20px/>
+</h2>
+David Ferguson is Vice President of Botnuvo Inc. Previously, David was President
+of Dynamic Systems Inc. (DSI), a closely held manufacturer of thermal-mechanical
+materials testing equipment. David has over 30 years experience in product
+development and manufacturing. He received a BS in Management Engineering and an MBA
+from Rensselaer Polytechnic Institute.<br><br>
+
+</div>

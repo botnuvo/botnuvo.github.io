@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Introducing Botnuvo and Velocity"
+date:   2019-10-08 12:00:00 -0700
+categories: jekyll update
+---
+
+Robotics should be easier. Researchers, educators and developers need access to high
+quality robot platforms. Most platforms available today are too expensive, poorly
+supported and closed source - at Botnuvo, we've set out to change that. Today we are unveiling
+our first product, a mobile robot designed for researchers, educators, and developers.
+We think you're going to be very excited about Velocity.
+
+<center><img src="/assets/images/2019-10-15-velocity.png"></center>
+
+Velocity has a powerful Intel-based PC inside, making it easy to run the latest and
+greatest robotics code. All Velocity robots include a high quality and robust laser
+range finder. Velocity uses highly efficient brushless hub motors for propulsion.
+
+Velocity is designed with your lab space in mind. The robot platform weighs only 30
+pounds (15kg), making it easy to move around from lab to lab or take on the road to
+demonstrate your latest research. The robot is small and light enough to ship through
+regular channels, avoiding the hassle and cost of freight deliveries.
+
+Velocity supports the open source Robot Operating System (ROS). While ROS is now
+available on a number of robot platforms, Velocity's ROS drivers will be entirely
+open source!
+
+Velocity is available in two configurations: Velocity and Velocity+. Our Velocity+ model
+sports a longer-range laser and additional compute power, enabling operation
+at higher speeds and in larger environments. The Velocity base model is designed
+as a lower-cost option, primarily intended for classroom use. The full specifications
+are posted on our <a href="/velocity">Velocity</a> page.
+
+Later this month, we'll be exhibiting at
+<a href="https://roscon.ros.org/2019/">ROScon</a> and
+<a href="https://www.iros2019.org">IROS</a> in Macau, so stop by if you want to
+see Velocity in person. Velocity will begin shipping at the end of this year - reach
+out to us now if you want to be one of the first to get your hands on a Velocity.
