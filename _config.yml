@@ -43,7 +43,7 @@ minima:
 header_pages:
   - velocity.html
   - blog.html
-  - about.md
+  - about.html
 
 # Build settings
 theme: minima
