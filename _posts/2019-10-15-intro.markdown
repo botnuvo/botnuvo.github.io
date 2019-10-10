@@ -11,7 +11,7 @@ supported and closed source - at Botnuvo, we've set out to change that. Today we
 our first product, a mobile robot designed for researchers, educators, and developers.
 We think you're going to be very excited about Velocity.
 
-<center><img src="/assets/images/2019-10-15-velocity.png"></center>
+<center><img src="{{ site.url }}//assets/images/2019-10-15-velocity.png"></center>
 
 Velocity has a powerful Intel-based PC inside, making it easy to run the latest and
 greatest robotics code. All Velocity robots include a high quality and robust laser
