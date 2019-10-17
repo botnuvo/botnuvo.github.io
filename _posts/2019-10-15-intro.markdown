@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introducing Botnuvo and Velocity"
-date:   2019-10-08 12:00:00 -0700
+date:   2019-10-15 12:00:00 -0700
 categories: jekyll update
 ---
 
