@@ -3,3 +3,28 @@
 ---
 
 @import "minima";
+
+@media only screen and (min-width: 800px)
+{
+  .specifications
+  {
+    display: grid;
+    grid-template-columns: 370px 370px;
+  }
+}
+
+@media only screen and (max-width: 800px)
+{
+  .specifications
+  {
+    display: grid;
+    justify-items: center;
+    grid-template-columns: 100%;
+  }
+
+  /* reorder */
+  .specifications div:nth-child(3) {
+    grid-column: 1;
+    grid-row: 4;
+  }
+}
